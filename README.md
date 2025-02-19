@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a full-stack typescript web developer. Know react, jquery, scss, express and fastify, mongodb, redis, sql, vite, docker.
+I'm a full-stack typescript web developer. Know react, jquery, scss, express and fastify, mongodb and mongoose, redis, sql, jest, vite, docker.
 Like to write native code.
 <!--
 **JustCreatedUser/JustCreatedUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
