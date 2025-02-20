@@ -39,10 +39,10 @@
     />
   </a>
   <a href="https://vite.dev/"
-    ><img src="https://vite.dev/logo.svg" alt="Vite"
+    ><img src="https://vite.dev/logo.svg" alt="Vite" height="40"
   /></a>
   <a href="https://vitest.dev/"
-    ><img src="https://vitest.dev/logo.svg" alt="Vitest"
+    ><img src="https://vitest.dev/logo.svg" alt="Vitest" height="40"
   /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
