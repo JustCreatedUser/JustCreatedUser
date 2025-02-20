@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A full-stack web-developer from Ukraine</h3>
 
 <p align="left">
@@ -10,14 +10,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+  <a href="https://code.visualstudio.com/">
     <img
-      src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-      alt="babel"
-      width="40"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
       height="40"
-    /> </a
-  ><a href="https://uk.wikipedia.org/wiki/PowerShell"
+      alt="VSCODE"
+  /></a>
+  <a href="https://uk.wikipedia.org/wiki/PowerShell"
     ><img
       src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png"
       height="40"
@@ -29,7 +28,17 @@
       width="40"
       height="40"
     /> </a
-  ><a><img src="https://img.icons8.com/color/512/ejs.png" height="40" /></a>
+  ><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+    /> </a
+  ><a href="https://ejs.co/"
+    ><img alt="EJS" src="https://img.icons8.com/color/512/ejs.png" height="40"
+  /></a>
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"
@@ -38,66 +47,10 @@
       height="40"
     />
   </a>
-  <a href="https://vite.dev/"
-    ><img src="https://vite.dev/logo.svg" alt="Vite" height="40"
-  /></a>
-  <a href="https://vitest.dev/"
-    ><img src="https://vitest.dev/logo.svg" alt="Vitest" height="40"
-  /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    /> </a
-  ><img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
-    height="40"
-  /><a href="https://fastify.dev/"
-    ><img
-      src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png"
-      height="40"
-  /></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <img
-    src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
-    height="40"
-  /><a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
       width="40"
       height="40"
     />
@@ -114,26 +67,10 @@
       height="40"
     />
   </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
       width="40"
       height="40"
     />
@@ -146,14 +83,15 @@
       height="40"
     />
   </a>
-  <a
-    href="https://github.com/puppeteer/puppeteer"
-    target="_blank"
-    rel="noreferrer"
-  >
+  <a href="https://fastify.dev/"
+    ><img
+      src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png"
+      height="40"
+  /></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"
-      alt="puppeteer"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express"
       width="40"
       height="40"
     />
@@ -166,6 +104,68 @@
       height="40"
     />
   </a>
+  <a href="https://zustand-demo.pmnd.rs/">
+    <img
+      alt="React Zustand"
+      src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"
+      height="40"
+    />
+  </a>
+  <a href="https://vite.dev/"
+    ><img src="https://vite.dev/logo.svg" alt="Vite" height="40"
+  /></a>
+  <a href="https://vitest.dev/"
+    ><img src="https://vitest.dev/logo.svg" alt="Vitest" height="40"
+  /></a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      alt="jest"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+      alt="gcp"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
@@ -174,18 +174,14 @@
       height="40"
     />
   </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+  <a
+    href="https://github.com/puppeteer/puppeteer"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg"
+      alt="puppeteer"
       width="40"
       height="40"
     />
