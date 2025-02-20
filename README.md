@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A full-stack web-developer from Ukraine</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=justcreateduser&label=Profile%20views&color=0e75b6&style=flat"
-    alt="justcreateduser"
-  />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://code.visualstudio.com/">
@@ -96,6 +89,7 @@
       height="40"
     />
   </a>
+  <a href="https://jquery.com/"><img src="https://jquery.com/wp-content/themes/jquery.com/i/favicon.ico" alt="Jquery" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
